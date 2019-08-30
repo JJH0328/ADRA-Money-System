@@ -1,4 +1,7 @@
-# ADRA-Money-System
+# ADRA - Money System 서버 애드온
+![](https://cdn.discordapp.com/attachments/542387372453527565/615917163685085225/1.png)
+![](https://cdn.discordapp.com/attachments/542387372453527565/615917164410568705/3.png)
+![](https://cdn.discordapp.com/attachments/542387372453527565/615917170484051969/2.png)
 
 ## 무슨 애드온 인가요?
 본 애드온은 게리모드 ADRA(시리즈)에 속해 있는 하나의 애드온입니다.    
