@@ -1,5 +1,5 @@
 # ADRA - Money System 서버 애드온
-# 게리모드 수요량에 따라 본 프로젝트는 일시 중단 되었습니다.
+# 게리모드 수요량에 따라 본 프로젝트는 임시 중단 되었습니다.
 
 ![](https://cdn.discordapp.com/attachments/542387372453527565/615917163685085225/1.png)
 ![](https://cdn.discordapp.com/attachments/542387372453527565/615917164410568705/3.png)
